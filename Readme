@@ -1,5 +1,20 @@
 # Translation of the Singer Manual
 
-Many thanks to http://www.zamzar.com for an amazing automatic conversion from PDF to stunning HTML.
+So I just bought my grandma a sewing machine and because she forgot most of her english and german I wanted to translate the manual for her.
 
+Good thing there's Google Translate, unfortunately you cannot upload PDF to it (nor have I found other supported upload formats). Hovewer you can use Google Docs for the auto translation (Tools->Translate).
+
+So how do you get from the PDF to the translated Doc?
+
+1. Transform the PDF to something where you can get the Text out:
+Many thanks to http://www.zamzar.com for an amazing automatic conversion from PDF to stunning HTML.
+1. Get the Text somehow into Google Docs
 I had to use a 'select all text on webpage' tool to get the text out due to the fact that zamzar packages text in a lot of divs. I found this chrome extension: https://chrome.google.com/webstore/detail/select-all-text/gmjlokoefabnajhinmejngadmbocdink/related
+1. Fix issues with the import and then Tools->Translate
+
+Sample versions can be found in this repository.
+
+While it's not perfect, it's good enough. Happy sewing grandma! Love you! 
+
+Google Docs version so you can translate into your own language:
+https://docs.google.com/document/d/1WhQ87ljdMSuYy1VylqGI6DwGGq_F315b-cbK4hFUzqQ/edit?usp=sharing
